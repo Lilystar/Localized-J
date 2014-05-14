@@ -6,6 +6,10 @@ alberta		246/62		コンロン広報官
 alberta		246/51		モスコビア広報大使
 alberta		246/40		クーニャン
 alberta		246/29		アイバックテイン
+alberta		212/202		デワタ行船員
+alberta		196/202		オフタラマ号船員
+alberta		189/151		船員
 izlude	 	201/181		船員
+cmd_fild07	94/134		快速船員
 prt_in		88/105		騎士団募集官
 alberta		32/65		アカギ
