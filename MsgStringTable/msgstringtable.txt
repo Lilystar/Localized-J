@@ -2239,7 +2239,7 @@ E%2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s#
 ご案内中です！終了しますか？#
 ナビゲーションのヘルプ#
-------------------- Command --------------------#
+------------------ Command -------------------#
 1. /navigation      /navi#
   ex)/navi prontera 100/100 -> マップ名, 100/100#
 2. /navigation2      /navi2#
@@ -2465,19 +2465,19 @@ MOTP auth fail#
 Zeny#
 預金限度額 2,147,483,647 Zeny#
 弾丸が不足しています。#
-1億以上の数値を入力しても、価格は1億Zenyにセットされます。#
+10億以上の数値を入力しても、　　　　　価格は10億Zenyにセットされます。#
 この認証チケットは有効ではありません#
 ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
 %d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
 モンスターを倒して得られるアイテムのドロップ率が、%d 分間増加します。#
 %d 分間、モンスターを倒して得られるアイテムのドロップ率が増加します。#
-The price of %s#
+設定した商品 %s は、#
 100000000#
- ^ff0000%d^0000ffbillion#
+ ^ff0000%d億^0000ff#
 10000000#
- ^ff0000%d^0000ffmillion#
-^0000ffZeny ^000000Over.\nEnter the Amount?#
-Safety check more than 10million Zeny#
+ ^ff0000%d千万^0000ff#
+^0000ff以上の値段です。　　　　　　^000000本当によろしいですか？#
+千万以上の桁は警告#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
 ヨトゥンヘイムとアルフヘイムを繋ぐ橋、　　　　　　#
@@ -2562,7 +2562,7 @@ Incorrect GameSamba ID. Please Try Again.#
 グレネードランチャーを使用するには弾丸を装備する必要があります。#
 [ヒートバレル]、[マッドネスキャンセラー]、[プラチナアルター] の効果は重複して使用できません。#
 このマップではスキルを使用することはできません。#
-ギルド倉庫を使用している場合、		すべてのアイテムは消滅します。#
+ギルド倉庫を使用している場合、すべてのアイテムは消滅します。#
 http://ragnarok.gamesamba.com/paytest.html#
 ログインするにはパスワードを入力してください。#
 2568#
