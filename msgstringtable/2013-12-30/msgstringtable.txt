@@ -2477,7 +2477,7 @@ ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
 10000000#
  ^ff0000%d千万^0000ff#
  ^0000ff以上の値段です。 ^000000本当によろしいですか？#
-1千万以上の桁は警告#
+1千万以上は警告#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
 ヨトゥンヘイムとアルフヘイムを繋ぐ橋、　　　　　　#
