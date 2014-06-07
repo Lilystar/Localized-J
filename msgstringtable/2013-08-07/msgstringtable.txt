@@ -2439,26 +2439,26 @@ Time Left: %d hours %d minutes#
 After %d hours %d minutes, your game will be terminated.#
 This Account is permanently Banned.#
 This Account is banned.\nTermination Time:%04d-%02d-%02d %02d:%02d#
-Monster(Tab)#
-Map(Alt)#
-Product Information#
-Find Information#
-Non-Process#
-Kafra#
-(Arrival)#
+モンスター(Tab)#
+マップ(Alt)#
+案内情報#
+検索情報#
+非プロセス#
+カプラ#
+(到着)#
 Mob)%s:%s(%s)#
-Distribution:%s#
-Very Plenty#
-Plenty#
-Normal#
-Low#
-Very Low#
+分布:%s#
+かなり多い#
+多い#
+普通#
+少ない#
+かなり少ない#
 倉庫や一部のスキルを実行中は銀行を利用することができません。#
-残高が足りません#
-所有以上のZenyを預けることはできません#
-所有Zenyが足りません#
+預金残高が不足しています。#
+所持しているZenyが不足していて入金することができません。#
+所持Zenyが足りません#
 保管Zenyが足りません#
-2,147,483,647 Zeny まで保管可能です#
+2,147,483,647 Zeny まで保管可能です。#
 your account is lock by mobile otp#
 MOTP auth fail#
 モンスターを倒して得ることができる経験値が、%d 分間増加します。#
@@ -2466,13 +2466,13 @@ MOTP auth fail#
 Zeny#
 預金限度額 2,147,483,647 Zeny#
 弾丸が不足しています。#
-10億以上の数値を入力しても、　　　　　価格は10億Zenyにセットされます。#
+10億以上の数値を入力しても、　　　　　10億Zenyで販売されます。#
 この認証チケットは有効ではありません#
 ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
 %d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
 モンスターを倒して得られるアイテムのドロップ率が、%d 分間増加します。#
 %d 分間、モンスターを倒して得られるアイテムのドロップ率が増加します。#
-設定した商品 %s は、#
+%s の価格が、#
 100000000#
  ^ff0000%d億^0000ff#
 10000000#
@@ -2529,11 +2529,11 @@ Item IDの照合に失敗しました。確認後、再度お試しください。#
 /limitedsale#
 http://www.ragnarokeurope.com/news/home-r70.html#
 http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
-アイテムの購入に成功#
-必要なアイテムが揃っていません。#
-その名前のキャラクターを招待する事はできません。#
-あなたは、ギルドにキャラクターを招待することはできません。#
-アイテムの購入に失敗#
+購入に成功した項目#
+注文数が在庫を超えました。#
+招待できないキャラクターの名前です。#
+ギルドに招待できないキャラクターの名前です。#
+いくつかの項目は、既に販売されて購入に失敗しました。#
 現在の位置でワープのメモを取る事はできません。#
 重量オーバーです。アイテムを購入することができません。#
 No.#
@@ -2547,8 +2547,8 @@ Input/Output#
 シンボルの挿入#
 残り時間#
 Guild Storage Logs#
-100個までのエントリーが表示されます。#
-ギルド倉庫は2分間まで開放されており、自動的に閉じます。#
+最新100個までが表示されます。#
+ギルド倉庫の使用時間(2分)が経過したので、自動的に閉じます。#
 Incorrect GameSamba ID. Please Try Again.#
 %s [%d オプション] : %d 個#
 コインが必要です。#
@@ -2562,7 +2562,7 @@ Incorrect GameSamba ID. Please Try Again.#
 アイテムの購入履歴#
 グレネードランチャーを使用するには弾丸を装備する必要があります。#
 [ヒートバレル]、[マッドネスキャンセラー]、[プラチナアルター] の効果は重複して使用できません。#
-このマップではスキルを使用することはできません。#
+現在のマップでは使用できないスキルです。#
 ギルド倉庫を使用している場合、すべてのアイテムは消滅します。#
 http://ragnarok.gamesamba.com/paytest.html#
 ログインするにはパスワードを入力してください。#
