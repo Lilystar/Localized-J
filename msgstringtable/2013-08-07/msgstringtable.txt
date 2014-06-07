@@ -2243,7 +2243,7 @@ E%2d) %s#
 ------------------ Command -------------------#
 1. /navigation      /navi#
   ex)/navi prontera 100/100 -> マップ名, 100/100#
-  基本的なコマンドは、ジェニー、非公正検索を基本とします。#
+  ここでは、省略したコマンドでの使用を基本とします。#
 2. /navigation2      /navi2#
   ex) /navi2 prontera 100/100 1/1/1#
 -> マップ名, 位置(100/100), scrool/zeny/plane (1:有効 0:無効)#
@@ -2292,28 +2292,28 @@ NPC をクリック#
 飛空艇の移動#
 ワープ利用#
 到着点 : ( %d %d )#
-ナビゲーションがサポートされていない地域です.#
-探している目的が不明です.#
-マッチングが合わないマップです.#
-出発地域の情報設定に失敗!#
-到着地点の情報設定に失敗!#
-ルートが見つかりません#
-プレイヤーの位置見つかりません#
-ナビゲーションの情報がありません.#
-このマップはルートがサポートされていないマップです.#
-目的地を設定してください.#
-到着.#
-アクセスが開始されました.#
-探しているモンスターがいるマップです.#
-探しているマップです.#
-アイテムを使用して移動してください.#
-案内する場所に移動してください.#
-目的のマップに到着しました.#
-探しているNpc があるマップに到着しました。Npc に移動してください.#
-探しているMob が生息しているマップに到着しました.#
-以前と同じ目的地です.#
-の方向に行ってください.#
-目標はここです.#
+ナビゲーションがサポートされていない地域です。#
+探している目的地が不明です。#
+マッチングが合わないマップです。#
+出発地域に関する情報の設定に失敗！#
+到着地点に関する情報の設定に失敗！#
+ルートが見つかりません。#
+プレイヤーの位置見つかりません。#
+ナビゲーションの情報がありません。#
+このマップはルートがサポートされていないマップです。#
+目的地を設定してください。#
+到着。#
+道案内が始まりました。#
+探しているモンスターがいるマップです。#
+探しているマップです。#
+アイテムを使用して移動してください。#
+案内する場所に移動してください。#
+目的のマップに到着しました。#
+探しているNpcがいるマップに到着しました。 Npcに移動してください。#
+探しているMobが生息しているマップに到着しました。#
+以前と同じ目的地です。#
+指している方向に進んでください。#
+目標はここです。#
 Navigation >: %s#
 Navigation >: 案内先(%s)を利用してください#
 Navigation >: マップ(%s)に移動してください#
@@ -2407,16 +2407,16 @@ Kagerou#
 Oboro#
 Select Ranking Type#
 Ranking Type#
-Currently,Server is full.           ^0000ffPeople Currently Waiting : %d                    Expected Waiting Time : %dSeconds#
-Currently,Server is full.           ^0000ffPeople Currently Waiting : %d                    Expected Waiting Time : %dMinutes %d Seconds#
-CBT is not an invited user#
-------------------- Instruction --------------------#
-1) /Navigation or /navi ex) /navi prontera 100 100 -> /navi "MAPNAME", 100, 100#
-2) /Navigation2 or /navi2 ex) /navi2 prontera 100 111 -> MAPNAME location (100 90), Scroll | Zeny | Plane (1: Enable or 0: Disable)#
--> /navi2 goes with the case with location coordinates. They must be no less than 3 characters #
-3) $$all Output all the items (Can take a while...) #
-4) $$lv30 monsters are placed in the output #
-5) $$lv20~30 monsters in that level range are placed in the output #
+現在、接続人数がいっぱいです。           ^0000ff現在の待機順位 : %d                    予想される待機時間 : %d秒#
+現在、接続人数がいっぱいです。           ^0000ff現在の待機順位 : %d                    予想される待機時間 : %d分 %d秒#
+CBT に招待されたユーザーではありません#
+------------------- Navigation Command --------------------#
+/navigation    /navi  :  /navi yuno 100/100           ->> マップ名, 位置(100/100)#
+/navigation2  /navi2 :  /navi2 yuno 100/100 1/1/1 ->> マップ名, 場所(100/100), scrool/zeny/plane (1:有効 0:無効)#
+ -------------- Navigation Search Command -------#
+$$all         : すべての項目を出力 (Type 区切り文字で出力の種類を分けることができる。)#
+$$lv30       : 該当するレベルのモンスターを出力 (数字は変更可能)#
+$$lv20~30  : 該当するレベルの範囲内でモンスターを出力 (数字は変更可能)#
 1 vs 1#
 コスチューム#
 %d 番目のキャラクターの情報に異常があります。ErrorCode(%d)#
@@ -2480,7 +2480,7 @@ ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
  ^0000ff以上の値段です。 ^000000本当によろしいですか？#
 1千万以上は警告#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
-https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
+https://kepler.warpportal.com/ro1/purchase/?step=1&steamid=%lld&accountname=#
 ヨトゥンヘイムとアルフヘイムを繋ぐ橋、　　　　　　#
 ビフロストにできた巨大な裂け目と疑惑の霧の森。　　#
 これは旅の終わりを告げる道標か？　　　　　　　　　#
