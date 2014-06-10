@@ -732,7 +732,7 @@
 0x0814,86
 0x0815,-1,openbuyingstorereq,2:4:8:9:89
 0x0816,6
-0x0817,2,closebuyingstorereq,0
+0x0817,6,closebuyingstorereq,0
 0x0818,-1
 0x0819,-1
 0x081a,4
