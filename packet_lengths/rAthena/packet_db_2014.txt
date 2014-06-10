@@ -1327,7 +1327,7 @@ packet_ver:
 0x0438,10,useskilltopos,2:4:6:8
 0x0802,6,getcharnamerequest,2
 0x0815,-1,reqopenbuyingstore,2:4:8:9:89
-0x0817,2,reqclosebuyingstore,0
+0x0817,6,reqclosebuyingstore,0
 0x0819,-1,searchstoreinfo,2:4:5:9:13:14:15
 0x0835,2,searchstoreinfonextpage,0
 0x0838,12,searchstoreinfolistitemclick,2:6:10
