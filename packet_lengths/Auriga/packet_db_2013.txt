@@ -1419,7 +1419,7 @@
 0x09c7,18
 
 //2013-07-10bRagexe
-#packet_ver: 20130709
+#packet_ver: 20130710
 #packet_key: 0x458f758f,0x4ccf3f8f,0x4a9c4237
 0x0202,5,changedir,2:4
 0x022d,19,wanttoconnection,2:6:10:14:18
@@ -1455,7 +1455,7 @@
 0x09c7,18
 
 //2013-07-10cRagexeRE
-#packet_ver: 20130710
+#packet_ver: 20130711
 #packet_key: 0x458f758f,0x4ccf3f8f,0x4a9c4237
 0x0202,5,changedir,2:4
 0x022d,19,wanttoconnection,2:6:10:14:18
