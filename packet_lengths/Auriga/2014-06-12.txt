@@ -1008,7 +1008,7 @@
 0x094d,2
 0x094e,2
 0x094f,6,solvecharname,2
-0x0950,18,bookingregreq,2:4:6:8:10:12
+0x0950,18,bookingregreq,2:4:6:8:10:12:14:16
 0x0951,5,changedir,2:4
 0x0952,8,movefromkafra,2:4
 0x0953,2

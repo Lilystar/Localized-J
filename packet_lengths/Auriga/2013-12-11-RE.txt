@@ -865,7 +865,7 @@
 0x08a0,2
 0x08a1,2
 0x08a2,2
-0x08a3,18,bookingregreq,2:4:6:8:10:12
+0x08a3,18,bookingregreq,2:4:6:8:10:12:14:16
 0x08a4,5,changedir,2:4
 0x08a5,2
 0x08a6,2
