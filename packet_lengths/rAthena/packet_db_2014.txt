@@ -245,7 +245,7 @@ packet_ver:
 0x0154,-1
 0x0155,-1,guildchangememberposition,2:4
 0x0156,-1
-0x0157,6,guildmemberinfo,2
+0x0157,6
 0x0159,54,guildleave,2:6:10:14
 0x015a,66
 0x015b,54,guildexpulsion,2:6:10:14
