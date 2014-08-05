@@ -1813,7 +1813,7 @@
 0x08f8,7
 
 //2012-01-03aRagexe - 2012-01-04aRagexe - 2012-01-04bRagexe
-#packet_ver: 20120113
+#packet_ver: 20120103
 #packet_key: 0x262034a1,0x674542a5,0x73a50ba5
 0x006d,146
 0x0202,5,changedir,2:4
