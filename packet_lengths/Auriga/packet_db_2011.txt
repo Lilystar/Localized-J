@@ -973,7 +973,7 @@
 0x090e,2
 0x09dc,2
 
-//2011-07-18aRagexe.exe
+//2011-07-18aRagexe
 #packet_ver: 20110718
 #packet_key: 0x08464674,0x1eeb3bd5,0x33395199
 0x0202,26,partyinvite2,2
@@ -1006,7 +1006,7 @@
 0x08a4,6,dropitem,2:4
 0x08ad,6,getcharnamerequest,2
 
-//2011-07-26aRagexe.exe
+//2011-07-26aRagexe
 #packet_ver: 20110726
 #packet_key: 0x41e5730b,0x119c6c11,0x5356524a
 0x022d,12
@@ -1039,7 +1039,7 @@
 0x08a8,6,solvecharname,2
 0x08ac,18,bookingregreq,2:4:6:8:10:12:14:16
 
-//2011-08-02aRagexe.exe
+//2011-08-02aRagexe
 #packet_ver: 20110802
 #packet_key: 0x607c08a1,0x65b20528,0x360571e9
 0x022d,6,dropitem,2:4
@@ -1072,7 +1072,7 @@
 0x08ac,-1,convertitem,2:4:8:12
 0x08ad,8,movetokafra,2:4
 
-//2011-08-09aRagexe.exe
+//2011-08-09aRagexe
 #packet_ver: 20110809
 #packet_key: 0x742a559a,0x047f425d,0x5c8c2ca0
 0x0281,18,bookingregreq,2:4:6:8:10:12:14:16
@@ -1106,7 +1106,7 @@
 0x08ad,6,dropitem,2:4
 0x08ce,2
 
-//2011-08-16aRagexe.exe - 2011-08-17aRagexe.exe - 2011-08-17bRagexe.exe
+//2011-08-16aRagexe - 2011-08-17aRagexe - 2011-08-17bRagexe
 #packet_ver: 20110816
 #packet_key: 0x053d5ced,0x3ded6ded,0x6ded6ded
 0x0202,5,changedir,2:4
@@ -1140,7 +1140,7 @@
 0x08ad,6,getcharnamerequest,2
 0x08ce,2
 
-//2011-08-23aRagexe.exe - 2011-08-24aRagexe.exe
+//2011-08-23aRagexe - 2011-08-24aRagexe
 #packet_ver: 20110823
 #packet_key: 0x35c91401,0x262a5556,0x28fa03aa
 0x0281,2
@@ -1174,7 +1174,7 @@
 0x08ad,6,solvecharname,2
 0x08ce,2
 
-//2011-08-31aRagexe.exe - 2011-08-31bRagexe.exe - 2011-08-31cRagexe.exe
+//2011-08-31aRagexe - 2011-08-31bRagexe - 2011-08-31cRagexe
 #packet_ver: 20110831
 #packet_key: 0x3ad67ed0,0x44703c69,0x6f876809
 0x023b,10,useskilltoid,2:4:6
@@ -1208,7 +1208,7 @@
 0x08ad,-1,openbuyingstorereq,2:4:8:9:89
 0x08ce,2
 
-//2011-09-06aRagexe.exe - 2011-09-14aRagexe.exe
+//2011-09-06aRagexe - 2011-09-14aRagexe
 #packet_ver: 20110906
 #packet_key: 0x350124ec,0x39a14595,0x0de56125
 0x0202,10,useskilltopos,2:4:6:8
@@ -1242,7 +1242,7 @@
 0x08ad,6,getcharnamerequest,2
 0x08ce,2
 
-//2011-09-20aRagexe.exe
+//2011-09-20aRagexe
 #packet_ver: 20110920
 #packet_key: 0x79c91a12,0x20450cc0,0x584b2a38
 0x022d,-1,sellbuyingstorereq,2:4:8:12
@@ -1277,7 +1277,7 @@
 0x08ce,2
 0x08d4,10
 
-//2011-09-28aRagexe.exe
+//2011-09-28aRagexe
 #packet_ver: 20110928
 #packet_key: 0x26567512,0x4b0732df,0x57d266c6
 0x022d,-1,convertitem,2:4:8:12
@@ -1312,7 +1312,7 @@
 0x08ce,2
 0x08d4,12
 
-//2011-10-04aRagexe.exe - 2011-10-05aRagexe.exe
+//2011-10-04aRagexe - 2011-10-05aRagexe
 #packet_ver: 20111004
 #packet_key: 0x291e6762,0x77cd391a,0x60ac2f16
 0x0202,2
@@ -1347,7 +1347,7 @@
 0x08ce,2
 0x08d4,12
 
-//2011-10-10aRagexe.exe - 2011-10-12bRagexe.exe
+//2011-10-10aRagexe - 2011-10-12bRagexe
 #packet_ver: 20111010
 #packet_key: 0x7f3c2d29,0x59b01de6,0x1dbb44ca
 0x0202,8,movefromkafra,2:4
@@ -1382,7 +1382,7 @@
 0x08ce,2
 0x08d4,12
 
-//2011-10-17aRagexe.exe - 2011-10-21aRagexe.exe - 2011-10-21cRagexe.exe
+//2011-10-17aRagexe - 2011-10-21aRagexe - 2011-10-21cRagexe
 #packet_ver: 20111017
 #packet_key: 0x357d55dc,0x5a8d759f,0x245c30f5
 0x0202,90,useskilltopos,2:4:6:8:10
@@ -1417,7 +1417,7 @@
 0x08ce,2
 0x08d4,12
 
-//2011-10-25aRagexe.exe
+//2011-10-25aRagexe
 #packet_ver: 20111025
 #packet_key: 0x50ae1a63,0x3ce579b5,0x29c10406
 0x0202,4
@@ -1452,7 +1452,7 @@
 0x08ce,2
 0x08d4,12
 
-//2011-11-01cRagexe.exe - 2011-11-02aRagexe.exe
+//2011-11-01cRagexe - 2011-11-02aRagexe
 #packet_ver: 20111101
 #packet_key: 0x5324329d,0x5d545d52,0x06137269
 0x006d,146
@@ -1493,7 +1493,7 @@
 0x08f2,36
 0x08f7,-1
 
-//2011-11-08aRagexe.exe - 2011-11-09aRagexe.exe ~ 2011-11-09eRagexe.exe
+//2011-11-08aRagexe - 2011-11-09aRagexe ~ 2011-11-09eRagexe
 #packet_ver: 20111108
 #packet_key: 0x0b642bda,0x6ecb1d1c,0x61c7454b
 0x006d,146
@@ -1538,7 +1538,7 @@
 0x08f7,3
 0x08f8,7
 
-//2011-11-14aRagexe.exe - 2011-11-16aRagexe.exe
+//2011-11-14aRagexe - 2011-11-16aRagexe
 #packet_ver: 20111114
 #packet_key: 0x419d0db0,0x74916bf4,0x027371b4
 0x006d,146
@@ -1583,7 +1583,7 @@
 0x08f7,3
 0x08f8,7
 
-//2011-11-22aRagexe.exe - 2011-11-23aRagexe.exe
+//2011-11-22aRagexe - 2011-11-23aRagexe
 #packet_ver: 20111122
 #packet_key: 0x3b550f07,0x1f666c7c,0x60304ef5
 0x006d,146
@@ -1628,7 +1628,7 @@
 0x08f7,3
 0x08f8,7
 
-//2011-12-07aRagexe.exe
+//2011-12-07aRagexe
 #packet_ver: 20111207
 #packet_key: 0x2a610886,0x3e09165e,0x57c11888
 0x006d,146
@@ -1674,7 +1674,7 @@
 0x08f7,3
 0x08f8,7
 
-//2011-12-13aRagexe.exe - 2011-12-14aRagexe.exe
+//2011-12-13aRagexe - 2011-12-14aRagexe
 #packet_ver: 20111213
 #packet_key: 0x5151306b,0x7ae32886,0x53060628
 0x006d,146
@@ -1720,7 +1720,7 @@
 0x08f7,3
 0x08f8,7
 
-//2011-12-20bRagexe.exe
+//2011-12-20bRagexe
 #packet_ver: 20111220
 #packet_key: 0x05d53871,0x7d0027b4,0x29975333
 0x006d,146
@@ -1766,7 +1766,7 @@
 0x08f7,3
 0x08f8,7
 
-//2011-12-27aRagexe.exe - 2011-12-28aRagexe.exe
+//2011-12-27aRagexe - 2011-12-28aRagexe
 #packet_ver: 20111227
 #packet_key: 0x0ff87e93,0x6cff7860,0x3a3d1dec
 0x006d,146
@@ -1812,7 +1812,7 @@
 0x08f7,3
 0x08f8,7
 
-//2012-01-03aRagexe.exe - 2012-01-04aRagexe.exe - 2012-01-04bRagexe.exe
+//2012-01-03aRagexe - 2012-01-04aRagexe - 2012-01-04bRagexe
 #packet_ver: 20120113
 #packet_key: 0x262034a1,0x674542a5,0x73a50ba5
 0x006d,146
