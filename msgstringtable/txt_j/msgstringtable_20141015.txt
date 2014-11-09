@@ -2668,7 +2668,7 @@ Gold PC room mileage points %d you can collect up#
 ダンジョン#
 戦闘#
 決闘#
-スイレン#
+修練#
 クエスト#
 エピソード#
 一般#
