@@ -2662,7 +2662,7 @@ Gold PC room mileage points %d you can collect up#
 冒険#
 ルーンミッドガッツ#
 シュヴァルツヴァルト#
-アルナペルツ#
+アルナベルツ#
 異界#
 ローカライズ#
 ダンジョン#
