@@ -2655,7 +2655,7 @@ Gold PC room mileage points %d you can collect up#
 マタタビの実が不足しています。#
 %s GD#
 概要#
-一般的な#
+一般#
 キャラクター#
 行動#
 その他#
@@ -2663,7 +2663,7 @@ Gold PC room mileage points %d you can collect up#
 ルーンミッドガッツ#
 シュヴァルツヴァルト#
 アルナベルツ#
-異界#
+異世界#
 ローカライズ#
 ダンジョン#
 戦闘#
@@ -2671,10 +2671,10 @@ Gold PC room mileage points %d you can collect up#
 スイレン#
 クエスト#
 エピソード#
-一般的な#
+一般#
 メモリアル#
 ミッドガルド#
-異界#
+異世界#
 その他#
 偉業#
 達成した課題#
