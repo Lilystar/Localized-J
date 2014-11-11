@@ -1412,7 +1412,7 @@ iniƒtƒ@ƒCƒ‹‚ª‚È‚¢‚©A‰ü•Ï‚³‚ê‚Ü‚µ‚½BƒQ[ƒ€ƒK[ƒh‚ðÄƒCƒ“ƒXƒg[ƒ‹‚·‚ê‚Î‰ðŒˆ‚Å‚«‚
 ‚±‚ÌƒXƒLƒ‹‚Íˆêl‚ÅŽg—p‚Å‚«‚Ü‚¹‚ñB#
 ‚±‚ÌƒXƒLƒ‹‚Í“Á’è•ûŒü‚Ì‚ÝŽg—p‚Å‚«‚Ü‚·B#
 ‚±‚êˆÈãA¢Š«‚Å‚«‚Ü‚¹‚ñB#
-¢Š«‚³‚ê‚½‹C’e‚ª‘¶Ý‚µ‚Ü‚¹‚ñB#
+¢Š«‚³‚ê‚½‹C’e‚ª‘¶Ý‚µ‚È‚¢‚©A•s‘«‚µ‚Ä‚¢‚Ü‚·B#
 Žg—p‰Â”\‚ÈƒNƒ[ƒ“ƒXƒLƒ‹‚ª‘¶Ý‚µ‚Ü‚¹‚ñB#
 ‚±‚ÌƒXƒLƒ‹‚Íd•¡‚ÅŽg—p‚Å‚«‚Ü‚¹‚ñB#
 ƒXƒLƒ‹Žg—p‚ªo—ˆ‚È‚¢ó‘Ô‚Å‚·B#
@@ -2358,7 +2358,7 @@ UAEURL#
 ƒNƒ‰ƒ“–¼#
 ƒNƒ‰ƒ“ƒ}[ƒN#
 “¯–¿ƒNƒ‰ƒ“#
-“G‘ÎƒMƒ‹ƒh#
+“G‘ÎƒNƒ‰ƒ“#
 ƒNƒ‰ƒ“‚É‘—M#
 ƒNƒ‰ƒ“ƒ}ƒXƒ^[#
 ƒNƒ‰ƒ“l”#
@@ -2457,12 +2457,74 @@ Mob)%s:%s(%s)#
 ŠŽ‚µ‚Ä‚¢‚éZeny‚ª•s‘«‚µ‚Ä‚¢‚Ä“ü‹à‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB#
 ŠŽZeny‚ª‘«‚è‚Ü‚¹‚ñ#
 •ÛŠÇZeny‚ª‘«‚è‚Ü‚¹‚ñ#
-21‰­Zeny ‚Ü‚Å•ÛŠÇ‰Â”\‚Å‚·B#
+2,147,483,647 Zeny ‚Ü‚Å•ÛŠÇ‰Â”\‚Å‚·B#
 your account is lock by mobile otp#
 MOTP auth fail#
 ƒ‚ƒ“ƒXƒ^[‚ð“|‚µ‚Ä“¾‚é‚±‚Æ‚ª‚Å‚«‚éŒoŒ±’l‚ªA%d •ªŠÔ‘‰Á‚µ‚Ü‚·B#
 ŠŽZeny : %s Zeny#
 Zeny#
-* —a‹àŒÀ“xŠz 21 ‰­Zeny#
+—a‹àŒÀ“xŠz 2,147,483,647 Zeny#
 ’eŠÛ‚ª•s‘«‚µ‚Ä‚¢‚Ü‚·B#
 10‰­ˆÈã‚Ì‰¿Ši‚ð“ü—Í‚µ‚Ä‚àA@@@@@10‰­Zeny‚Å”Ì”„‚³‚ê‚Ü‚·B#
+‚±‚Ì”FØƒ`ƒPƒbƒg‚Í—LŒø‚Å‚Í‚ ‚è‚Ü‚¹‚ñ#
+ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
+%d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
+%d •ªŠÔAƒ‚ƒ“ƒXƒ^[‚ð“|‚µ‚Ä“¾‚ç‚ê‚éƒAƒCƒeƒ€‚Ìƒhƒƒbƒv—¦‚ªA%d% ‘‰Á‚µ‚Ü‚·B#
+%d ŽžŠÔ %d •ª‚ÌŠÔAƒ‚ƒ“ƒXƒ^[‚ð“|‚µ‚Ä“¾‚ç‚ê‚éƒAƒCƒeƒ€‚Ìƒhƒƒbƒv—¦‚ªA%d% ‘‰Á‚µ‚Ü‚·B#
+%s ‚Ì‰¿Ši‚ªA#
+100000000#
+ ^ff0000%d‰­^0000ff#
+10000000#
+ ^ff0000%dç–œ^0000ff#
+ ^0000ffˆÈã‚Ì’l’i‚Å‚·B ^000000–{“–‚É‚æ‚ë‚µ‚¢‚Å‚·‚©H#
+1ç–œˆÈã‚ÍŒx#
+https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
+https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
+ƒˆƒgƒDƒ“ƒwƒCƒ€‚ÆƒAƒ‹ƒtƒwƒCƒ€‚ðŒq‚®‹´A@@@@@@#
+ƒrƒtƒƒXƒg‚É‚Å‚«‚½‹‘å‚È—ô‚¯–Ú‚Æ‹^˜f‚Ì–¶‚ÌXB@@#
+‚±‚ê‚Í—·‚ÌI‚í‚è‚ð‚°‚é“¹•W‚©H@@@@@@@@@#
+V‚µ‚¢¢ŠE‚ð‘ñ‚­Žè‚ª‚©‚è‚©H@@@@@@@@@@@#
+ƒXƒvƒŒƒ“ƒfƒBƒbƒh‘O‰qŠî’n‚Ì•â‹‹ü‚Å‚ ‚Á‚½A@@@@#
+_”é‚Ì“y’nƒrƒtƒƒXƒg‚É–â‘è‚ª¶‚¶‚½‚æ‚¤‚Å‚·B@@@‰“ª‘àƒLƒƒƒ“ƒv‚ÌƒeƒIƒŒ‚É˜b‚ð•·‚¢‚Ä‚Ý‚Ü‚µ‚å‚¤B@@#
+”Žš‚Ì‚Ý“ü—Í‰Â”\‚Å‚·B#
+Žæˆø’†‚â˜I“X‚ðo‚µ‚Ä‚éó‘Ô‚Å‚ÍA‹âsƒVƒXƒeƒ€‚ðŽg‚¤Ž–‚Í‚Å‚«‚Ü‚¹‚ñB#
+#
+‘•”õ”äŠr#
+‘•”õ‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚ée‚ª‘•”õ‚µ‚Ä‚¢‚é’eŠÛ‚Æˆê’v‚µ‚Ü‚¹‚ñ#
+‘•”õ‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚é’eŠÛ‚ª‘•”õ‚µ‚Ä‚¢‚ée‚Æˆê’v‚µ‚Ü‚¹‚ñ#
+”Ì”„‚Å‚«‚éƒAƒCƒeƒ€‚ð“o˜^‚µ‚Ä‚¢‚Ü‚¹‚ñB”Ì”„‚·‚é‚±‚Æ‚ª‚Å‚«‚éƒAƒCƒeƒ€‚ð“o˜^‚µ‚Ä‚­‚¾‚³‚¢B#
+ITEM#
+ƒMƒ‹ƒh‘qŒÉ‚ð—˜—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB#
+ƒMƒ‹ƒh‚É‰Á“ü‚µ‚Ä‚¢‚Ü‚¹‚ñB“o˜^‚µ‚Ä‚©‚ç‚²—˜—p‚­‚¾‚³‚¢B#
+‘¼‚ÌƒMƒ‹ƒhƒƒ“ƒo[‚ªŽg—p’†‚Å‚·B‚µ‚Î‚ç‚­‚µ‚Ä‚©‚ç‚²—˜—p‚­‚¾‚³‚¢B#
+‘qŒÉ‚ÌŒ ŒÀ#
+ƒMƒ‹ƒh‘qŒÉ#
+ƒMƒ‹ƒh‘qŒÉ‚ðŽg—p‚·‚éŒ ŒÀ‚ª‚ ‚è‚Ü‚¹‚ñB#
+ŒÀ’è”Ì”„“o˜^ƒEƒBƒ“ƒhƒE#
+Item DB Name#
+Item DB Number#
+”Ì”„”#
+”Ì”„ŠJŽnŽžŠÔ#
+”Ì”„‚·‚éŽžŠÔ#
+”Ì”„‚·‚é”‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢#
+”Ì”„ŠJŽnŽžŠÔ‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢#
+”Ì”„ŠJŽnŽž‚Ì”ÍˆÍ‚ªˆê’v‚µ‚Ü‚¹‚ñ#
+”Ì”„‚·‚éŽžŠÔ‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢#
+Item DB Name‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢#
+Item ID‚ÌÆ‡‚ÉŽ¸”s‚µ‚Ü‚µ‚½BŠm”FŒãAÄ“x‚¨ŽŽ‚µ‚­‚¾‚³‚¢B#
+>> ItemName : %s / Price : %dc / ”—Ê : %d / ”Ì”„ŠúŠÔ : %dŒŽ:%d“ú:%dŽž:%d•ª ~ %dŒŽ:%d“ú:%dŽž:%d•ª#
+“o˜^‚É¬Œ÷‚µ‚Ü‚µ‚½#
+“o˜^‚ÉŽ¸”s‚µ‚Ü‚µ‚½B‚à‚¤ˆê“x‚â‚è’¼‚µ‚Ä‚­‚¾‚³‚¢B#
+‚·‚Å‚É“o˜^‚³‚ê‚Ä‚¢‚éƒAƒCƒeƒ€‚ª‚ ‚è‚Ü‚·B‚à‚¤ˆê“x‚â‚è’¼‚µ‚Ä‚­‚¾‚³‚¢B#
+ƒAƒCƒeƒ€‚Ìíœ‚ÉŽ¸”s‚µ‚Ü‚µ‚½B‚à‚¤ˆê“x‚â‚è’¼‚µ‚Ä‚­‚¾‚³‚¢B#
+%s ƒAƒCƒeƒ€‚ªíœ‚³‚ê‚Ü‚µ‚½B#
+“Á‰¿#
+ŒÀ’è”Ì”„‚·‚éƒAƒCƒeƒ€”‚ÌXV#
+”Ì”„I—¹#
+”‚ÌXV‚ª•K—v‚É‚È‚è‚Ü‚·#
+ÝŒÉ‚ª•s‘«‚µ‚Ä‚¢‚éˆ× %d ŒÂ•ª‚¾‚¯w“ü‚µ‚Ü‚·#
+%s ƒAƒCƒeƒ€‚Ì“Á•Ê”Ì”„‚ªŠJŽn‚³‚ê‚Ü‚µ‚½#
+%s ƒAƒCƒeƒ€‚ÌŠ®”„‚â”Ì”„‚Ìƒ^ƒCƒ€ƒAƒEƒg‚ªŒ´ˆö‚ÅŒÀ’è”Ì”„‚ªI—¹‚µ‚Ü‚µ‚½#
+/limitedsale#
+http://www.ragnarokeurope.com/news/home-r70.html#
+http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
