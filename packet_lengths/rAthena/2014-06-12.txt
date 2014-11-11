@@ -774,7 +774,7 @@
 0x0847,-1
 0x0848,-1,cashshopbuy,2:6:4:10
 0x0849,16	//clif_cashshop_result
-0x084a,2
+0x084a,2,cashshopclose,0
 0x084b,19	//fallitem4
 0x084c,10
 0x084d,10

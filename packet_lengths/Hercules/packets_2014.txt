@@ -779,7 +779,7 @@ packet(0x0846,4,clif->pCashShopReqTab,2);
 packet(0x0847,-1);
 packet(0x0848,-1,clif->pCashShopBuy,2);
 packet(0x0849,16);
-packet(0x084a,2);
+packet(0x084a,2,clif->pCashShopClose,2);	/* tell server cashshop window is being closed */
 packet(0x084b,19);
 packet(0x084c,10);
 packet(0x084d,10);
