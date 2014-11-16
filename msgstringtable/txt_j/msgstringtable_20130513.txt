@@ -2461,7 +2461,7 @@ Mob)%s:%s(%s)#
 your account is lock by mobile otp#
 MOTP auth fail#
 モンスターを倒して得ることができる経験値が、%d 分間増加します。#
-所持Zeny : %s Zeny#
+所持 Zeny : %s Zeny#
 Zeny#
 * 預金限度額 21 億Zeny#
 弾丸が不足しています。#

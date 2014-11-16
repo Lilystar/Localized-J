@@ -2461,7 +2461,7 @@ Mob)%s:%s(%s)#
 your account is lock by mobile otp#
 MOTP auth fail#
 モンスターを倒して得ることができる経験値が、%d 分間増加します。#
-所持Zeny : %s Zeny#
+所持 Zeny : %s Zeny#
 Zeny#
 預金限度額 2,147,483,647 Zeny#
 弾丸が不足しています。#
@@ -2473,10 +2473,10 @@ ErrorCategory : %d, ErrorCode : %d (%d,%d,%d,%d)#
 %d 時間 %d 分の間、モンスターを倒して得られるアイテムのドロップ率が、%d% 増加します。#
 %s の価格が、#
 100000000#
- ^ff0000%d億^0000ff#
+ ^FF0000%d^0000FF億#
 10000000#
- ^ff0000%d千万^0000ff#
- ^0000ff以上の値段です。 ^000000本当によろしいですか？#
+ ^FF0000%d^0000FF千万#
+ ^0000FFZeny以上^000000ですが入力金額に問題はありませんか？#
 1千万以上は警告#
 https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
 https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
