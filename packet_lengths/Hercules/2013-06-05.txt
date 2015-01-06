@@ -1052,7 +1052,7 @@ packet(0x0978,6,);
 packet(0x0979,50);
 packet(0x097a,-1);
 packet(0x097b,-1);
-packet(0x097c,4);
+packet(0x097c,4,clif->pRanklist);
 packet(0x097d,288);
 packet(0x097e,12);
 packet(0x097f,-1);
