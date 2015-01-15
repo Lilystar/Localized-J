@@ -2049,7 +2049,10 @@ packet(0x0a0b,47);
 packet(0x0a0c,56);
 packet(0x0a0d,-1);
 packet(0x0a13,26);
-packet(0x0a21,3);
+packet(0x0a19,2,clif->pRouletteOpen,0);
+packet(0x0a1d,2,clif->pRouletteClose,0);
+packet(0x0a1f,2,clif->pRouletteGenerate,0);
+packet(0x0a21,3,clif->pRouletteRecvItem,2);
 packet(0x0a22,5);
 packet(0x0a24,66);
 #endif
