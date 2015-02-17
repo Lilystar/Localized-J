@@ -1922,7 +1922,7 @@ When invited to a party#
 Pickup Item#
 Over 85% Weight#
 実行中の操作（NPC 会話、製造...）を終了後にもう一度試してください#
-モンスターを倒して得ることができる経験値が、%d 分間増加します。#
+モンスターを倒して得ることができる Job経験値 が、%d 分間 %.2f 増加します。#
 SaveData_ExMacro %d#
 設定した内容が [%s] に保存されます#
 セキュリティレベル#
@@ -2460,7 +2460,7 @@ Mob)%s:%s(%s)#
 21億Zeny まで保管可能です。#
 your account is lock by mobile otp#
 MOTP auth fail#
-モンスターを倒して得ることができる経験値が、%d 分間増加します。#
+%d 分間、モンスターから得られる Job経験値 が、%d%% 増加します。
 所持 Zeny : %s Zeny#
 Zeny#
 預金限度額 2,147,483,647 Zeny#
