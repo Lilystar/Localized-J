@@ -812,7 +812,7 @@ packet(0x086a,2);
 packet(0x086b,2);
 packet(0x086c,2);
 packet(0x086d,2);
-packet(0x086e-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x086e,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x086f,2);
 packet(0x0870,2);
 packet(0x0871,2);

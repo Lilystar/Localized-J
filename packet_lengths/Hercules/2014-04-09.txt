@@ -806,7 +806,7 @@ packet(0x0866,2);
 packet(0x0867,2);
 packet(0x0868,12,clif->pSearchStoreInfoListItemClick,2,6,10);
 packet(0x0869,2);
-packet(0x086a-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x086a,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x086b,2);
 packet(0x086c,2);
 packet(0x086d,-1,clif->pReqTradeBuyingStore,2,4,8,12);

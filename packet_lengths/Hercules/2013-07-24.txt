@@ -974,7 +974,7 @@ packet(0x092a,2);
 packet(0x092b,26,clif->pFriendsListAdd,2);
 packet(0x092c,2);
 packet(0x092d,2);
-packet(0x092e-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x092e,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x092f,2);
 packet(0x0930,2);
 packet(0x0931,2);

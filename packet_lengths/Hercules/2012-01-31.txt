@@ -841,7 +841,7 @@ packet(0x0889,2);
 packet(0x088a,19,clif->pWantToConnection,2,6,10,14,18);
 packet(0x088b,2);
 packet(0x088c,2);
-packet(0x088d-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x088d,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x088e,2);
 packet(0x088f,2);
 packet(0x0890,8);	//CZ_JOIN_BATTLE_FIELD

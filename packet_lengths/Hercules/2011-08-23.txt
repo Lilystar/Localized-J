@@ -856,7 +856,7 @@ packet(0x0898,-1,clif->pReqTradeBuyingStore,2,4,8,12);
 packet(0x0899,6,clif->pDropItem,2,4);
 packet(0x089a,2);
 packet(0x089b,19,clif->pWantToConnection,2,6,10,14,18);
-packet(0x089c-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x089c,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x089d,2);
 packet(0x089e,2);
 packet(0x089f,2);

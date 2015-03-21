@@ -647,7 +647,7 @@ packet(0x0365,2);
 packet(0x0366,12,clif->pSearchStoreInfoListItemClick,2,6,10);
 packet(0x0367,4);
 packet(0x0368,2);
-packet(0x0369-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0369,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x03dd,18);
 packet(0x03de,18);
 packet(0x0436,6,clif->pDropItem,2,4);

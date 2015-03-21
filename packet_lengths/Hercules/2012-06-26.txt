@@ -802,7 +802,7 @@ packet(0x0862,2);
 packet(0x0863,2);
 packet(0x0864,2);
 packet(0x0865,2);
-packet(0x0866-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0866,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0867,2);
 packet(0x0868,5,clif->pHomMenu,2,4);
 packet(0x0869,10,clif->pUseSkillToPos,2,4,6,8);

@@ -832,7 +832,7 @@ packet(0x0880,2);
 packet(0x0881,2);
 packet(0x0882,2);
 packet(0x0883,2);
-packet(0x0884-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0884,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0885,36,clif->pStoragePassword,0);
 packet(0x0886,2);
 packet(0x0887,2);

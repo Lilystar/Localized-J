@@ -991,7 +991,7 @@ packet(0x0921,2);
 packet(0x0922,2);
 packet(0x0923,2,clif->pSearchStoreInfoNextPage,0);
 packet(0x0924,2);
-packet(0x0925-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0925,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0926,2);
 packet(0x0927,2);
 packet(0x0928,26,clif->pFriendsListAdd,2);

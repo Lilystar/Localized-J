@@ -1002,7 +1002,7 @@ packet(0x0946,2);
 packet(0x0947,2);
 packet(0x0948,2);
 packet(0x0949,2);
-packet(0x094a-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x094a,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x094b,2);
 packet(0x094c,2);
 packet(0x094d,2);

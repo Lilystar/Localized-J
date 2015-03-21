@@ -837,7 +837,7 @@ packet(0x0885,5,clif->pHomMenu,2,4);
 packet(0x0886,2);
 packet(0x0887,6,clif->pGetCharNameRequest,2);
 packet(0x0888,2);
-packet(0x0889-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0889,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x088a,2);
 packet(0x088b,2);
 packet(0x088c,2);

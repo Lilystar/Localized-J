@@ -1007,7 +1007,7 @@ packet(0x0931,2);
 packet(0x0932,2);
 packet(0x0933,2);
 packet(0x0934,2);
-packet(0x0935-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0935,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0936,2);
 packet(0x0937,8,clif->pMoveFromKafra,2,4);
 packet(0x0938,2);

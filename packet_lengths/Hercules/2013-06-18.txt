@@ -994,7 +994,7 @@ packet(0x093e,2);
 packet(0x093f,2);
 packet(0x0940,2);
 packet(0x0941,2);
-packet(0x0942-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0942,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0943,2);
 packet(0x0944,6,clif->pGetCharNameRequest,2);
 packet(0x0945,6,clif->pSolveCharName,2);

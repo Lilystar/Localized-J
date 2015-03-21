@@ -977,7 +977,7 @@ packet(0x0913,30);
 packet(0x0914,-1);
 packet(0x0915,-1);
 packet(0x0916,26,clif->pGuildInvite2,2);
-packet(0x0917-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0917,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0918,2);
 packet(0x0919,2);
 packet(0x091a,2);

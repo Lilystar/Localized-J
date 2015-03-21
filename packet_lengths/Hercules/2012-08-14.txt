@@ -639,7 +639,7 @@ packet(0x035d,-1);
 packet(0x035e,2);
 packet(0x035f,2);
 packet(0x0360,2);
-packet(0x0361-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0361,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0362,2);
 packet(0x0363,2);
 packet(0x0364,2);

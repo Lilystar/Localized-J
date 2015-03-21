@@ -408,7 +408,7 @@ packet(0x01fe,5);
 packet(0x01ff,10);
 packet(0x0200,26);
 packet(0x0201,-1);
-packet(0x0202-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0202,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0203,10,clif->pFriendsListRemove,2,6);
 packet(0x0204,18);
 packet(0x0205,26);

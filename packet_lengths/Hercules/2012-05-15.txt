@@ -644,7 +644,7 @@ packet(0x0362,2);
 packet(0x0363,2);
 packet(0x0364,6,clif->pDropItem,2,4);
 packet(0x0365,2);
-packet(0x0366-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0366,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0367,2,clif->pSearchStoreInfoNextPage,0);
 packet(0x0368,2);
 packet(0x0369,26,clif->pFriendsListAdd,2);

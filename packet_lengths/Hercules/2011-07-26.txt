@@ -757,7 +757,7 @@ packet(0x082d,-1);
 packet(0x0835,2,clif->pReqCloseBuyingStore,0);
 packet(0x0836,-1);
 packet(0x0837,3);
-packet(0x0838-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0838,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0839,66);
 packet(0x083a,5);	//Search Stalls Feature
 packet(0x083b,2,clif->pCloseSearchStoreInfo,0);

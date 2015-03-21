@@ -837,7 +837,7 @@ packet(0x0883,2);
 packet(0x0884,2);
 packet(0x0885,2);
 packet(0x0886,2);
-packet(0x0887-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0887,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0888,18,clif->pPartyBookingRegisterReq,2,4);
 packet(0x0889,2);
 packet(0x088a,2);

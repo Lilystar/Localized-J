@@ -642,7 +642,7 @@ packet(0x0360,2,clif->pReqCloseBuyingStore,0);
 packet(0x0361,90,clif->pUseSkillToPosMoreInfo,2,4,6,8,10);
 packet(0x0362,2);
 packet(0x0363,2);
-packet(0x0364-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0364,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0365,2,clif->pSearchStoreInfoNextPage,0);
 packet(0x0366,2);
 packet(0x0367,19,clif->pWantToConnection,2,6,10,14,18);

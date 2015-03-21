@@ -964,7 +964,7 @@ packet(0x0920,2);
 packet(0x0921,18,clif->pPartyBookingRegisterReq,2,4);
 packet(0x0922,2);
 packet(0x0923,2);
-packet(0x0924-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0924,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0925,2);
 packet(0x0926,2);
 packet(0x0927,2);

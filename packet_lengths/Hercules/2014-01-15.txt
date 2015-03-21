@@ -1029,7 +1029,7 @@ packet(0x0961,2);
 packet(0x0962,2);
 packet(0x0963,2);
 packet(0x0964,2);
-packet(0x0965-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0965,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0966,19,clif->pWantToConnection,2,6,10,14,18);
 packet(0x0967,2);
 packet(0x0968,2);

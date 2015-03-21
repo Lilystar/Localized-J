@@ -980,7 +980,7 @@ packet(0x0916,26,clif->pGuildInvite2,2);
 packet(0x0917,2);
 packet(0x0918,2);
 packet(0x0919,2);
-packet(0x091a-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x091a,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x091b,-1,clif->pSearchStoreInfo,2,4,5,9,13,14,15);
 packet(0x091c,2);
 packet(0x091d,26,clif->pFriendsListAdd,2);

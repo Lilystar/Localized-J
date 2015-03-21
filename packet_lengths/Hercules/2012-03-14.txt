@@ -860,7 +860,7 @@ packet(0x089c,2);
 packet(0x089d,2);
 packet(0x089e,26,clif->pPartyInvite2,2);
 packet(0x089f,2);
-packet(0x08a0-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x08a0,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x08a1,2);
 packet(0x08a2,2);
 packet(0x08a3,2);

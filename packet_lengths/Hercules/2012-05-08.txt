@@ -641,7 +641,7 @@ packet(0x035f,6,clif->pTickSend,2);
 packet(0x0360,6,clif->pReqClickBuyingStore,2);
 packet(0x0361,2);
 packet(0x0362,2);
-packet(0x0363-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0363,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0364,2);
 packet(0x0365,2);
 packet(0x0366,26,clif->pFriendsListAdd,2);

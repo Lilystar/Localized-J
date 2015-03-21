@@ -1016,7 +1016,7 @@ packet(0x0954,2);
 packet(0x0955,2);
 packet(0x0956,26,clif->pPartyInvite2,2);
 packet(0x0957,6,clif->pSolveCharName,2);
-packet(0x0958-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0958,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0959,2);
 packet(0x095a,2);
 packet(0x095b,90,clif->pUseSkillToPosMoreInfo,2,4,6,8,10);

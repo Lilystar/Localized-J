@@ -834,7 +834,7 @@ packet(0x0882,2);
 packet(0x0883,2);
 packet(0x0884,6,clif->pTickSend,2);
 packet(0x0885,10,clif->pUseSkillToId,2,4,6);
-packet(0x0886-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0886,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0887,2);
 packet(0x0888,2);
 packet(0x0889,2);

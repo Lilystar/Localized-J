@@ -851,7 +851,7 @@ packet(0x0893,2);
 packet(0x0894,2);
 packet(0x0895,2);
 packet(0x0896,2);
-packet(0x0897-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0897,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0898,6,clif->pReqClickBuyingStore,2);
 packet(0x0899,2);
 packet(0x089a,2);

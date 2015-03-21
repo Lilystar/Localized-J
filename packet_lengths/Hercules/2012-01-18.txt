@@ -846,7 +846,7 @@ packet(0x088e,8,clif->pMoveToKafra,2,4);
 packet(0x088f,10,clif->pUseSkillToId,2,4,6);
 packet(0x0890,2);
 packet(0x0891,6,clif->pGetCharNameRequest,2);
-packet(0x0892-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0892,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0893,2);
 packet(0x0894,2);
 packet(0x0895,2);

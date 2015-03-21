@@ -645,7 +645,7 @@ packet(0x0363,8);	//CZ_JOIN_BATTLE_FIELD
 packet(0x0364,8,clif->pMoveFromKafra,2,4);
 packet(0x0365,18,clif->pPartyBookingRegisterReq,2,4);
 packet(0x0366,90,clif->pUseSkillToPosMoreInfo,2,4,6,8,10);
-packet(0x0367-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0367,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0368,6,clif->pSolveCharName,2);
 packet(0x0369,7,clif->pActionRequest,2,6);
 packet(0x03dd,18);

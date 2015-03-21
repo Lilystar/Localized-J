@@ -978,7 +978,7 @@ packet(0x0914,-1);
 packet(0x0915,-1);
 packet(0x0916,26,clif->pGuildInvite2,2);
 packet(0x0917,-1,clif->pSearchStoreInfo,2,4,5,9,13,14,15);
-packet(0x0918-1,clif->pItemListWindowSelected,2,4,8);
+packet(0x0918,-1,clif->pItemListWindowSelected,2,4,8);
 packet(0x0919,2);
 packet(0x091a,6,clif->pGetCharNameRequest,2);
 packet(0x091b,2);
